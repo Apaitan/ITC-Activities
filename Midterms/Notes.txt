@@ -1,0 +1,8 @@
+Html
+Open tag and closong tag <> Content </>
+Element - composed of open&close tag and content
+Attribute element - condition inside a tag
+Attribute value - value of attribute ""
+
+<meta charset="utf-8"> - Can be opened with other code editor
+<title> - sets title of the page
